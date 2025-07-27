@@ -7,7 +7,6 @@
 .bloop/
 .bsp 
 .metals 
-.vscode 
 out
 .cache/
 .history/
@@ -36,3 +35,4 @@ web/.DS_Store
 project/metals.sbt
 project/.bloop
 profiling/src/main/scala/Main.scala
+config.bat
